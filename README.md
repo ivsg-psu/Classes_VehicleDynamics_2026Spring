@@ -145,8 +145,8 @@ Students can choose between two grading options:
 Option I: An initial grade based on 500 total points will be assigned after the third exam.  If the student is satisfied with this grade, then the Final Exam is not required.
 
 ```
-			3 exams                     =   300   points 
-			homework                    =   150  points 
+			3 exams                     =   300 points 
+			homework                    =   150 points 
 			final project               =   25  points
 			quizzes	 + muddiest points  =   25  points 
 			Total                           500 points
